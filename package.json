@@ -5,7 +5,7 @@
   "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ehtishamali042/react-native-braintree-dropin.git"
+    "url": "git@github.com:ehtisham-ali-emumba/react-native-braintree-dropin.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "drop-in"
   ],
   "author": {
-    "name": "ehtishamali042"
+    "name": "ehtisham-ali-emumba"
   },
   "license": "MIT",
   "peerDependencies": {
