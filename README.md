@@ -21,3 +21,9 @@ In your `AndroidManifest.xml` file, you need to add the following code inside th
     android:theme="@style/MyTransparentTheme">
 </activity>
 ```
+
+## Demo
+
+Android
+
+![Image description](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/android.png)
