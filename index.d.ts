@@ -1,4 +1,4 @@
-declare module 'react-native-braintree-dropin' {
+declare module 'react-native-braintree-dropin-wrapper' {
     export interface PaymentMethodDetails {
         nonce: string;
         isDefault: boolean;
