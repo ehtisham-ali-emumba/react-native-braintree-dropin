@@ -1,4 +1,4 @@
-# react-native-braintree-dropin
+# react-native-braintree-dropin-wrapper
 
 This is a React Native module for integrating the Braintree Drop-In Payment UI into your mobile application.
 
