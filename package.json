@@ -1,0 +1,26 @@
+{
+  "name": "react-native-braintree-dropin",
+  "version": "1.0.0",
+  "description": "React Native integration of Braintree Drop-in",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ehtishamali042/react-native-braintree-dropin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "braintree",
+    "payments",
+    "drop-in"
+  ],
+  "author": {
+    "name": "ehtishamali042"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
