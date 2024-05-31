@@ -4,11 +4,22 @@ This is a React Native module for integrating the Braintree Drop-In Payment UI i
 
 ## Installation
 
-Provide instructions on how to install your plugin.
+```
+ npm i react-native-braintree-dropin-wrapper
+```
 
 ## Usage
 
-Provide instructions on how to use your plugin.
+```
+import { showDropIn } from "react-native-braintree-dropin-wrapper";
+
+showDropIn({
+      token: '// your client token here',
+    })
+      .then((result) => ({ // do stuff here }))
+      .catch((error) => ({ // handle error here }));
+
+```
 
 ## Important Note
 
