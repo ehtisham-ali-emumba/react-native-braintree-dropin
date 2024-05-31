@@ -6,6 +6,11 @@ This is a React Native module for integrating the Braintree Drop-In Payment UI i
 
 ```
  npm i react-native-braintree-dropin-wrapper
+
+ or
+
+ yarn add react-native-braintree-dropin-wrapper
+
 ```
 
 ## Usage
