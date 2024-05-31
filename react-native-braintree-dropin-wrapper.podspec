@@ -8,12 +8,12 @@ Pod::Spec.new do |s|
   s.name         = "react-native-braintree-dropin"
   s.version      = package["version"]
   s.summary      = package["description"]
-  s.homepage     = "https://github.com/ehtishamali042/react-native-braintree-dropin.git"
+  s.homepage     = "https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin.git"
   s.license      = "MIT"
   s.authors      = "ehtishamali042"
 
   s.platforms    = { :ios => "11.0" }
-  s.source       = { :git => "https://github.com/ehtishamali042/react-native-braintree-dropin.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
