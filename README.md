@@ -61,7 +61,7 @@ Add this in your ios/Podfile
 
 ## Demo
 
-- view the IOS demo image [here](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/ios.png).
-  <img alt="Screenshot of Drop-In" src="assets/ios.png" width="200"/>
-- view the android demo image 
-<img alt="Screenshot of Drop-In" src="assets/android.png" width="200"/>
+| iOS                                                                 | Android                                                             |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img alt="Screenshot of Drop-In" src="assets/ios.png" width="300"/> | <img alt="Screenshot of Drop-In" src="assets/android.png" width="300"/> |
+
