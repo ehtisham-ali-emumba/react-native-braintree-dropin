@@ -30,6 +30,20 @@ showDropIn({
 
 ### Android
 
+Additionally, add the following Maven repository and (non-sensitive) credentials to your app-level gradle:
+
+```groovy
+repositories {
+    maven {
+        url "https://cardinalcommerceprod.jfrog.io/artifactory/android"
+        credentials {
+            username 'braintree_team_sdk'
+            password 'AKCp8jQcoDy2hxSWhDAUQKXLDPDx6NYRkqrgFLRc3qDrayg6rrCbJpsKKyMwaykVL8FWusJpp'
+        }
+    }
+}
+```
+
 In your `AndroidManifest.xml` file, you need to add the following code inside the `<application>` tag:
 
 ```xml
@@ -48,4 +62,6 @@ Add this in your ios/Podfile
 ## Demo
 
 - view the IOS demo image [here](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/ios.png).
-- view the android demo image [here](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/android.png).
+  <img alt="Screenshot of Drop-In" src="assets/ios.png" width="200"/>
+- view the android demo image 
+<img alt="Screenshot of Drop-In" src="assets/android.png" width="200"/>
