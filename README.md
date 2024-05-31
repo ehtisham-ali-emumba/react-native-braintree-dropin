@@ -28,6 +28,8 @@ showDropIn({
 
 ## Important Note
 
+### Android
+
 In your `AndroidManifest.xml` file, you need to add the following code inside the `<application>` tag:
 
 ```xml
@@ -37,6 +39,11 @@ In your `AndroidManifest.xml` file, you need to add the following code inside th
     android:theme="@style/MyTransparentTheme">
 </activity>
 ```
+
+### IOS
+
+Add this in your ios/Podfile
+`pod 'BraintreeDropIn', '9.12.2', :modular_headers => true`
 
 ## Demo
 
