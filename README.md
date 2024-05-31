@@ -24,6 +24,5 @@ In your `AndroidManifest.xml` file, you need to add the following code inside th
 
 ## Demo
 
-| Android                                                                                                                 | iOS                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| ![Image description](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/android.png) | ![Image description](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/ios.png) |
+- view the IOS demo image [here](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/ios.png).
+- view the android demo image [here](https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin/blob/main/assets/android.png).
