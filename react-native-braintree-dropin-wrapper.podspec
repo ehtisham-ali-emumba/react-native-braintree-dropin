@@ -5,12 +5,12 @@ package = JSON.parse(File.read(File.join(__dir__, "package.json")))
 folly_compiler_flags = '-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -Wno-comma -Wno-shorten-64-to-32'
 
 Pod::Spec.new do |s|
-  s.name         = "react-native-braintree-dropin"
+  s.name         = "react-native-braintree-dropin-wrapper"
   s.version      = package["version"]
   s.summary      = package["description"]
   s.homepage     = "https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin.git"
   s.license      = "MIT"
-  s.authors      = "ehtishamali042"
+  s.authors      = "ehtisham-ali-emumba"
 
   s.platforms    = { :ios => "11.0" }
   s.source       = { :git => "https://github.com/ehtisham-ali-emumba/react-native-braintree-dropin.git", :tag => "#{s.version}" }
