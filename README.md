@@ -57,11 +57,13 @@ In your `AndroidManifest.xml` file, you need to add the following code inside th
 ### IOS
 
 Add this in your ios/Podfile
-`pod 'BraintreeDropIn', '9.12.2', :modular_headers => true`
+
+```
+pod 'BraintreeDropIn', '9.12.2', :modular_headers => true
+```
 
 ## Demo
 
-| iOS                                                                 | Android                                                             |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| iOS                                                                 | Android                                                                 |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | <img alt="Screenshot of Drop-In" src="assets/ios.png" width="300"/> | <img alt="Screenshot of Drop-In" src="assets/android.png" width="300"/> |
-
