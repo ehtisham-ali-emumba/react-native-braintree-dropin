@@ -1,6 +1,6 @@
 {
   "name": "react-native-braintree-dropin-wrapper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React Native integration of Braintree Drop-in",
   "main": "index.ts",
   "repository": {

@@ -43,7 +43,6 @@ public class RNBraintreeDropInActivity extends AppCompatActivity implements Drop
         super.onResume();
         if(dropInRequest==null) {
             dropInRequest = new DropInRequest();
-            dropInRequest.setPayPalDisabled(true);
             dropInClient.launchDropIn(dropInRequest);
         }
     }
